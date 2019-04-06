@@ -1,17 +1,5 @@
 # Write a speak_to_grandma method.
 
-dog = "thirsty"
-
-def fef 
-if dog == "hungry"
-  puts "Refilling food bowl."
-elsif dog == "thirsty"
-  puts "Refilling water bowl."
-else
-  puts "Reading newspaper."
-end
-end
-
 def speak_to_grandma(r)
   if r!=r.upcase
     puts "HUH?! SPEAK UP, SONNY!"
