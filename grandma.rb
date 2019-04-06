@@ -3,9 +3,9 @@
 def speak_to_grandma(r)
   if r!=r.upcase
     puts "HUH?! SPEAK UP, SONNY!"
-  elseif r=r.upcase
+  elseif r==r.upcase
     puts "NO, NOT SINCE 1938!"
-  elseif r = "I LOVE YOU GRANDMA!"
+  elseif r == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN"
   end
 end
