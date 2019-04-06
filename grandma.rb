@@ -5,7 +5,9 @@ def speak_to_grandma(r)
     "HUH?! SPEAK UP, SONNY!"
   elseif r=r.upcase
     "NO, NOT SINCE 1938!"
-  elseif 
+  elseif r = "I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
